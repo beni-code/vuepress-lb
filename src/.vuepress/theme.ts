@@ -6,8 +6,8 @@ export default hopeTheme({
   hostname: "https://mister-hope.github.io",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mrhope.site",
+    name: "LB",
+    url: "",
   },
 
   iconAssets: "iconfont",
